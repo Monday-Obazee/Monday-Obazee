@@ -1,4 +1,4 @@
-Name--Monday Osas 
+Name--Monday Osas Obazee
 Email--Mondayobazee@gmail.com
 Slack Username--Monday-Obazee
 Tracks--Coding and Frontend
